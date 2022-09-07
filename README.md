@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-001&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-001" /> </p>
 
-- 🌱 I’m currently learning **DEVOPS,JAVASCRIPT,,HTML,CSS,C++**
+- 🌱 I’m currently learning **DEVOPS,JAVASCRIPT,HTML,CSS,C++**
 - 🌱 I’m currently pursuing BTECH **GRAPHIC ERA HILL UNIVERSITY**
 
 <h3 align="left">Connect with me:</h3>
